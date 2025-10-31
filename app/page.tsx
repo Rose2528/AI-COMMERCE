@@ -1,5 +1,5 @@
 // app/page.tsx
-"use client";
+
 
 import Navbar from "../components/Navbar";
 import ProductCard from "../components/ProductCard";
